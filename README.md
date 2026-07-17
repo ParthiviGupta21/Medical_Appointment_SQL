@@ -44,4 +44,4 @@ Three relational tables in a `Medical_Appointment` database:
 - **Patient loyalty**: Ranked patients by visit frequency and isolated repeat patients (>2 visits) using `HAVING COUNT(*) > 2`.
 - **Outcome breakdown**: Quantified appointment status distribution (attended, cancelled, returned, refunded) to assess overall fulfillment health.
 
-- 
+- CREATED BY PARTHIVI GUPTA
